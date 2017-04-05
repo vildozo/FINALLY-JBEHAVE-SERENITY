@@ -1,0 +1,5 @@
+com/javier/serenity/AcceptanceTestSuite.class
+com/javier/serenity/pages/DictionaryPage.class
+com/javier/serenity/pages/DictionaryPage$1.class
+com/javier/serenity/steps/serenity/EndUserSteps.class
+com/javier/serenity/steps/DefinitionSteps.class
